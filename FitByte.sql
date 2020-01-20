@@ -1,3 +1,5 @@
+-- Do not trust Github's UI / VSCode when they show syntax errors - they are wrong. Run this with mySQL.
+
 -- -----------------------------------------------------
 -- Schema mydb
 -- -----------------------------------------------------
